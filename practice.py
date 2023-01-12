@@ -2,3 +2,5 @@
 
 print("Hello World!")
 print("This works")
+
+print(5 + 10)
